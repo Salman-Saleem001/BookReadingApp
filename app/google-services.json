@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "216881215864",
+    "project_id": "readerapp-feab6",
+    "storage_bucket": "readerapp-feab6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216881215864:android:9837adfdfdefb0f534308d",
+        "android_client_info": {
+          "package_name": "com.example.readerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcW-NMxsqQ6wTjFzhwoT8Vql9GUVx6_tQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
